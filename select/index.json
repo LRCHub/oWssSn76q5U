@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "菅原圭 - crash (Official Video)",
+  "base_artist": "菅原 圭",
+  "createdAt": "2026-03-20T09:18:38.313529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "菅原圭 - celeste feat. 春野 (Official Video)",
+      "artist": "Kei Sugawara",
+      "has_synced": true,
+      "path": "select/01_菅原圭_-_celeste_feat._春野_(Official_Video)_Kei_Sugawara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheers feat Tani Yuuki 菅原圭",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/02_Cheers_feat_Tani_Yuuki_菅原圭_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheers( feat.Tani Yuuki & 菅原圭)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/03_Cheers(_feat.Tani_Yuuki_&_菅原圭)_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "crash",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_crash_菅原_圭.txt"
+    }
+  ]
+}
